@@ -40,3 +40,8 @@ The main requirements are listed below:
 * Sdg_model
 
     The model is used for the Glucose starvation induction model data prediction.
+## OS Requirements
+
+Above codes have been tested on the following systems:
+
+* Windows: Windos10
